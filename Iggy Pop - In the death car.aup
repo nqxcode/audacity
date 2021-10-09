@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Iggy Pop - In the death car_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="21.5332031250" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Аудиотрек" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2815360">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1ffce.au" len="167936" min="-0.092224" max="0.122711" rms="0.025325"/>
+				</waveblock>
+				<waveblock start="167936">
+					<simpleblockfile filename="eff1f1ae.au" len="171008" min="-0.080475" max="0.126007" rms="0.026711"/>
+				</waveblock>
+				<waveblock start="338944">
+					<simpleblockfile filename="eff1fdc5.au" len="192256" min="-0.075256" max="0.125916" rms="0.022453"/>
+				</waveblock>
+				<waveblock start="531200">
+					<simpleblockfile filename="eff1fb31.au" len="180736" min="-0.1297" max="0.178925" rms="0.03215"/>
+				</waveblock>
+				<waveblock start="711936">
+					<simpleblockfile filename="eff1feda.au" len="157184" min="-0.089661" max="0.122711" rms="0.02425"/>
+				</waveblock>
+				<waveblock start="869120">
+					<simpleblockfile filename="eff1f1ae.au" len="171008" min="-0.080475" max="0.126007" rms="0.026711"/>
+				</waveblock>
+				<waveblock start="1040128">
+					<simpleblockfile filename="eff1fdc5.au" len="192256" min="-0.075256" max="0.125916" rms="0.022453"/>
+				</waveblock>
+				<waveblock start="1232384">
+					<simpleblockfile filename="eff1f9e1.au" len="177152" min="-0.129181" max="0.178925" rms="0.031272"/>
+				</waveblock>
+				<waveblock start="1409536">
+					<simpleblockfile filename="eff1f0ae.au" len="160896" min="-0.092224" max="0.122711" rms="0.024798"/>
+				</waveblock>
+				<waveblock start="1570432">
+					<simpleblockfile filename="eff1f1ae.au" len="171008" min="-0.080475" max="0.126007" rms="0.026711"/>
+				</waveblock>
+				<waveblock start="1741440">
+					<simpleblockfile filename="eff1fdc5.au" len="192256" min="-0.075256" max="0.125916" rms="0.022453"/>
+				</waveblock>
+				<waveblock start="1933696">
+					<simpleblockfile filename="eff1fb31.au" len="180736" min="-0.1297" max="0.178925" rms="0.03215"/>
+				</waveblock>
+				<waveblock start="2114432">
+					<simpleblockfile filename="eff1feda.au" len="157184" min="-0.089661" max="0.122711" rms="0.02425"/>
+				</waveblock>
+				<waveblock start="2271616">
+					<simpleblockfile filename="eff1f1ae.au" len="171008" min="-0.080475" max="0.126007" rms="0.026711"/>
+				</waveblock>
+				<waveblock start="2442624">
+					<simpleblockfile filename="eff1fdc5.au" len="192256" min="-0.075256" max="0.125916" rms="0.022453"/>
+				</waveblock>
+				<waveblock start="2634880">
+					<simpleblockfile filename="eff1f4db.au" len="180480" min="-0.1297" max="0.178925" rms="0.032145"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
